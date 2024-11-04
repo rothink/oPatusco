@@ -14,15 +14,6 @@
   >
         make install
 
-
-- Rodas as migrations
-  >
-        make migration
-
-- Rodas as migrations com seeder
-  >
-        make migration
-
 - Executar os testes
   >
         make test
